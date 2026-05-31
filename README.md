@@ -38,20 +38,7 @@ move() → moveForward()
 attack() → smash()
 takeDamage() → receiveShock()
 getHealth() → energyLevel()
-Estructura del Proyecto
-src/game
-│
-├── Enemy.java
-├── BaseEnemy.java
-├── Player.java
-├── EnemyRobot.java
-├── robotAdaptar.java
-│
-├── attackBehavior.java
-├── SwordAttack.java
-├── LaserAttack.java
-│
-└── Main.java
+
 Componentes Principales
 Enemy
 
